@@ -7,7 +7,7 @@
           box-sizing: border-box;
   text-decoration: none;
   outline: none;
-  border: none;
+  border: 2px;
   text-transform: capitalize;
   -webkit-transition: all .2s linear;
   transition: all .2s linear;
